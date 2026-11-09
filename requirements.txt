@@ -1,0 +1,9 @@
+astral==1.4
+ipinfo==2.0.0
+paho-mqtt==1.5.0
+psycopg2==2.7.4
+pyserial==3.4
+pytz==2019.1
+schedule==0.4.3
+sentry-sdk==0.14.3
+statsd==3.3.0
